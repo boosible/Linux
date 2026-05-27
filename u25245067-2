@@ -1,0 +1,259 @@
+Script started on 2026-03-25 20:35:53+09:00 [TERM="xterm" TTY="/dev/pts/23" COLUMNS="75" LINES="38"]
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -la
+[?2004l합계 48
+drwxr-x---  3 u25245067 user_student  4096  3월 19 12:23 [0m[01;34m.[0m
+drwxr-xr-x 93 root      root         20480  3월 19 13:39 [01;34m..[0m
+-rw-------  1 u25245067 user_student   514  3월 25 20:36 .bash_history
+-rw-r--r--  1 u25245067 user_student   220 10월  8  2022 .bash_logout
+-rw-r--r--  1 u25245067 user_student  3771 10월  8  2022 .bashrc
+drwx------  2 u25245067 user_student  4096  3월 12 11:35 [01;34m.cache[0m
+-rw-r--r--  1 u25245067 user_student   807 10월  8  2022 .profile
+-rw-r--r--  1 u25245067 user_student     0  3월 25 20:35 typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cd /usr/bin
+[?2004l[?2004h]0;u25245067@linux-ex: /usr/binu25245067@linux-ex:/usr/bin$ cd ..
+[?2004l[?2004h]0;u25245067@linux-ex: /usru25245067@linux-ex:/usr$ cd /c[Kdoc[K[K[K[K/..
+[?2004l[?2004h]0;u25245067@linux-ex: /u25245067@linux-ex:/$ cd [K[K[Kpwd
+[?2004l/
+[?2004h]0;u25245067@linux-ex: /u25245067@linux-ex:/$ cd[K[Kcd
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ pwd
+[?2004l/home/u25245067
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cat > h[KHelloWorld
+[?2004lHellowo  World
+d 
+cd
+pwd
+$ pwd
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lHelloWorld  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cat HelloWol[Krld
+[?2004lHelloWorld
+
+cd
+pwd
+$ pwd
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm HelloWorld
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004ltypescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cat > color
+[?2004lred
+blu   orange
+yellow
+green
+Blue   lue
+purple
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ car [K[Kt>[K > weather
+[?2004lspring
+summer fall winter
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ car[Kt > imoji[K[Kgi[K[K[K[K[Kemoji
+[?2004l^_^
+d g $o$
+__&&88  **
+\(^__0)/
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ㅣ[Ks[Kls
+[?2004lcolor  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -a[Kla
+[?2004l합계 60
+drwxr-x---  3 u25245067 user_student  4096  3월 25 20:48 [0m[01;34m.[0m
+drwxr-xr-x 93 root      root         20480  3월 19 13:39 [01;34m..[0m
+-rw-------  1 u25245067 user_student   514  3월 25 20:36 .bash_history
+-rw-r--r--  1 u25245067 user_student   220 10월  8  2022 .bash_logout
+-rw-r--r--  1 u25245067 user_student  3771 10월  8  2022 .bashrc
+drwx------  2 u25245067 user_student  4096  3월 12 11:35 [01;34m.cache[0m
+-rw-r--r--  1 u25245067 user_student   807 10월  8  2022 .profile
+-rw-r--r--  1 u25245067 user_student    36  3월 25 20:48 color
+-rw-r--r--  1 u25245067 user_student    24  3월 25 20:49 emoji
+-rw-r--r--  1 u25245067 user_student     0  3월 25 20:35 typescript
+-rw-r--r--  1 u25245067 user_student    26  3월 25 20:48 weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ head color
+[?2004lred
+orange
+yellow
+green
+Blue
+purple
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ head color-color2color color
+[?2004lred
+orange
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ tale [K[K[Kil color -2
+[?2004ltail: 잘못된 내용으로 옵션이 사용됨 -- 2
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ tal[Kil -2 color
+[?2004lBlue
+purple
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ more
+[?2004lmore: bad usage
+Try 'more --help' for more information.
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ more color
+[?2004lred
+orange
+yellow
+green
+Blue
+purple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+[7m--More--[K(END)[27m[K
+[7m--More--[K(END)[27m[K
+[7m--More--[K(END)[27m[K[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cop[K[K[Kcat > TH[Khe little p[KP[K[K[K[K[K[K[K[KLittle Prince
+[?2004lcat: Little: 그런 파일이나 디렉터리가 없습니다
+cat: Prince: 그런 파일이나 디렉터리가 없습니다
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cat >The[K[K[K TheLittlePrice[K[Knce
+[?2004lc Chapter.1   1.
+Once when I was six yearse old      old I saw a man gnificent picture in a book, calle d ed True Stories fo rom n Natur, a    e re, about the primeva    l forest. I  
+It was a pi icture of a boa constrictor in the act of swallowing an animal.
+Here is a copy of the drawing
+.
+in    In the booi k it                
+In the book it said: "Boa constrictors w swallow their prey whole, without chewing ti  it.
+^^H  d a After te hat they are noa t al ble to mow ce,     ve, and they sleep through the six months that they need for digestion."
+
+I pondered deeply...
+...
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lThe  TheLittlePrince  color  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ pwd
+[?2004l/home/u25245067
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ heat[Kd TheLittle [KPrice [K[K[Knce [K-TheLittlePrince5TheLittlePrince TheLittlePrince
+[?2004lChapter 1.
+Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest.
+It was a picture of a boa constrictor in the act of swallowing an animal.
+Here is a copy of the drawing
+.
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cp color [K color2
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lThe  TheLittlePrince  color  color2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cp -r [K[K[K[K[K[Kcolor[K[K[K[Kp -i color color2
+[?2004lcp: 'color2'를 덮어쓸까요? y
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lThe  TheLittlePrince  color  color2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mb [K[Kv color Color
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lColor  The  TheLittlePrince  color2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm The[K[K[K[K[K[Kcat emoji
+[?2004l^_^
+$o$
+__&&**
+\(^__0)/
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mr[Kkdir
+[?2004lmkdir: 잘못된 연산자
+Try 'mkdir --help' for more information.
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mkdif[Kr -p dir1.[K/dir2
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cp[K[Kmv color[K[K[K[K[KColor dir1
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lThe  TheLittlePrince  color2  [0m[01;34mdir1[0m  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mo[Kv clol[K[K[K[Ke[Ke[KThe [KLittle [KPrince dir2
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lThe  color2  [0m[01;34mdir1[0m  dir2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mb[Kv the[K[K[KTHe [K[K[Khe fir[K[K[Kdir2
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004lcolor2  [0m[01;34mdir1[0m  dir2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mv clol[K[K[Kolor2 dir1
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;34mdir1[0m  dir2  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ mv dir2 dir1
+[?2004lmv: 디렉터리 'dir1/dir2'를 디렉터리가 아닌 것으로 덮어쓸 수 없음
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm -i dir2
+[?2004lrm: 일반 빈 파일 'dir2'를 제거할까요? y
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;34mdir1[0m  emoji  typescript  weather
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ chmod [K[K[K[Kmod 754 color2
+[?2004lchmod: 'color2'에 접근할 수 없습니다: 그런 파일이나 디렉터리가 없습니다
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ chmod 754 weather
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;34mdir1[0m  emoji  typescript  [01;32mweather[0m
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -1[Kl
+[?2004l합계 20
+drwxr-xr-x 3 u25245067 user_student 4096  3월 25 21:05 [0m[01;34mdir1[0m
+-rw-r--r-- 1 u25245067 user_student   24  3월 25 20:49 emoji
+-rw-r--r-- 1 u25245067 user_student 8192  3월 25 21:05 typescript
+-rwxr-xr-- 1 u25245067 user_student   26  3월 25 20:48 [01;32mweather[0m
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cd[Khmod 4755
+[?2004lchmod: `4755' 뒤에 명령어가 빠짐
+Try 'chmod --help' for more information.
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ cho[Kmod 4755 emoji
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;34mdir1[0m  [37;41memoji[0m  typescript  [01;32mweather[0m
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -l
+[?2004l합계 20
+drwxr-xr-x 3 u25245067 user_student 4096  3월 25 21:05 [0m[01;34mdir1[0m
+-rwsr-xr-x 1 u25245067 user_student   24  3월 25 20:49 [37;41memoji[0m
+-rw-r--r-- 1 u25245067 user_student 8192  3월 25 21:05 typescript
+-rwxr-xr-- 1 u25245067 user_student   26  3월 25 20:48 [01;32mweather[0m
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ c[Kc[Kls [K[Kn -s c[Kweather [K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat > listerine
+[?2004lmild ts aste
+cat: 쓰기 오류: 장치에 남은 공간이 없음
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ m[Kls
+[?2004l[0m[01;34mdir1[0m  [37;41memoji[0m  listerine  typescript  [01;32mweather[0m
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm weather
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;34mdir1[0m  [37;41memoji[0m  listerine  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ l[Krm emoji
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm dir1
+[?2004lrm: 'dir1'를 지울 수 없음: 디렉터리입니다
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm[K[Krm -r dir1
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004llisterine  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm [K[K[Kcat > l[Klisterin2
+[?2004lnatural green tea
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ln 0s [K[K[K-s lsterin[K[K[K[K[K[Kisterine listerin2
+[?2004lln: failed to create symbolic link 'listerin2': 파일이 있습니다
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ln -s listerine LTR
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[01;36mLTR[0m  listerin2  listerine  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm listerine
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004l[0m[40;31;01mLTR[0m  listerin2  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -l
+[?2004l합계 12
+lrwxrwxrwx 1 u25245067 user_student    9  3월 25 21:12 [0m[40;31;01mLTR[0m -> [40;31;01mlisterine[0m
+-rw-r--r-- 1 u25245067 user_student   18  3월 25 21:11 listerin2
+-rw-r--r-- 1 u25245067 user_student 8192  3월 25 21:05 typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm LS[KTR
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004llisterin2  typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ wc listerin2
+[?2004l 1  3 18 listerin2
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls -l
+[?2004l합계 16
+-rw-r--r-- 1 u25245067 user_student    18  3월 25 21:11 listerin2
+-rw-r--r-- 1 u25245067 user_student 12288  3월 25 21:12 typescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ groups
+[?2004luser_student
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ file listerni[K[Kin2
+[?2004llisterin2: ASCII text
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ rm listerin2
+[?2004l[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ ls
+[?2004ltypescript
+[?2004h]0;u25245067@linux-ex: ~u25245067@linux-ex:~$ [?2004l
+exit
+
+Script done on 2026-03-25 21:17:14+09:00 [COMMAND_EXIT_CODE="0"]
